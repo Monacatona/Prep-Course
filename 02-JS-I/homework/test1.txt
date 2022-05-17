@@ -1,0 +1,9 @@
+#
+Una variable es un espacio en la memoria, donde se almacenanan y se consultan y usan cuando es necesario.
+#L
+os strings son un tipo de variable, que es una cadena de letras. Palabras y para distinguir que sea una palabra y no otro símbolo, se pone entre doble comillas
+#
+Una funcion es una gran operacion  que siempre retorna un resultado, y recibe datos que se llaman argumentos que son variables, que se usan para guardar los datos que se ingresa en la funcion para hacer las operaciones que se necesiten para llegar a un resultado final llamdo return. Una buena cosa que tiene la funcion es que se puede volver a usar tantas veces se necesite para eso se hace.
+#
+if es una sentencia que tiene una condición y devuelve un resultado que es del tipo booleano, la condicion devuelve si se cumple TRUE por el contrario FALSE.
+ 
